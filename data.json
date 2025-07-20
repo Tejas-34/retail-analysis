@@ -1,4 +1,4 @@
 {
-  "pair": "Avg_Basket-Net_Sales",
-  "correlation": 0.614975
+    "pair": "Net_Sales-Avg_Basket",
+    "correlation": 0.614975
 }
